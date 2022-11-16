@@ -354,12 +354,6 @@
   line-height: 30px;
 }
 
-.footer__column-link {
-  text-decoration: none;
-  color: white;
-  display: flex;
-}
-
 .footer__social-icon {
   padding-right: 10px;
 }
