@@ -7,7 +7,6 @@
   display: flex;
   justify-content: space-between;
   overflow: hidden;
-  z-index: 1;
   align-items: center;
   /* выше установили ограничения для секции */
 }
