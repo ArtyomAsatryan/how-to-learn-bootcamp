@@ -31,5 +31,5 @@ Desktop вёрстка небольшого одностраничного са�
 ##### Ссылка на проект:
 
 <div>
-  <a href="https://artyomasatryan.github.io/how-to-learn-bootcamp/">Научиться учится</a>
+  <a href="https://artyomasatryan.github.io/how-to-learn-bootcamp/">Научиться учиться</a>
 </div>
